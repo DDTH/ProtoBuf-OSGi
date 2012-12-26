@@ -5,3 +5,5 @@
 *.war
 *.ear
 /classes
+/build
+/META-INF

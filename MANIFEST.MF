@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Google Protobuf OSGi Bundle
+Bundle-SymbolicName: com.google.protobuf
+Bundle-Version: 2.4.1
+Export-Package: com.google.protobuf; version=2.4.1
